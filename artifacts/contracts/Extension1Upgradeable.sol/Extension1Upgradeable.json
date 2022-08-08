@@ -1,0 +1,50 @@
+{
+  "_format": "hh-sol-artifact-1",
+  "contractName": "Extension1Upgradeable",
+  "sourceName": "contracts/Extension1Upgradeable.sol",
+  "abi": [
+    {
+      "anonymous": false,
+      "inputs": [
+        {
+          "indexed": false,
+          "internalType": "uint8",
+          "name": "version",
+          "type": "uint8"
+        }
+      ],
+      "name": "Initialized",
+      "type": "event"
+    },
+    {
+      "inputs": [],
+      "name": "c",
+      "outputs": [
+        {
+          "internalType": "uint256",
+          "name": "",
+          "type": "uint256"
+        }
+      ],
+      "stateMutability": "view",
+      "type": "function"
+    },
+    {
+      "inputs": [],
+      "name": "d",
+      "outputs": [
+        {
+          "internalType": "uint256",
+          "name": "",
+          "type": "uint256"
+        }
+      ],
+      "stateMutability": "view",
+      "type": "function"
+    }
+  ],
+  "bytecode": "0x6080604052348015600f57600080fd5b50608f8061001e6000396000f3fe6080604052348015600f57600080fd5b506004361060325760003560e01c80638a054ac2146037578063c3da42b8146051575b600080fd5b603f60025481565b60405190815260200160405180910390f35b603f6001548156fea2646970667358221220d404d7f7e316986e489bb0cfea7c9b8d5a5e6ac75f83dcbb938274b59f74d2c864736f6c63430008040033",
+  "deployedBytecode": "0x6080604052348015600f57600080fd5b506004361060325760003560e01c80638a054ac2146037578063c3da42b8146051575b600080fd5b603f60025481565b60405190815260200160405180910390f35b603f6001548156fea2646970667358221220d404d7f7e316986e489bb0cfea7c9b8d5a5e6ac75f83dcbb938274b59f74d2c864736f6c63430008040033",
+  "linkReferences": {},
+  "deployedLinkReferences": {}
+}
